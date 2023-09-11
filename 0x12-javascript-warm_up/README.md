@@ -48,9 +48,16 @@ For the moment, and for learning all basic concepts of this language, we will do
     - You must use console.log(...) to print all output
     - You are not allowed to use var
 
+* Task 3 - Write a script that prints the first argument passed to it:
+    - If no arguments are passed to the script, print “No argument”
+    - You must use console.log(...) to print all output
+    - You are not allowed to use var
+    - You are not allowed to use length
+
 * Task 0 - 
+
 * Task 0 - 
-* Task 0 - 
+
 * Task 0 - 
 * Task 0 - 
 * Task 0 - 
