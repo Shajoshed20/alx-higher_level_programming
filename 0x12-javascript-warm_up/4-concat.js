@@ -4,5 +4,5 @@
 const x = process.argv;
 
 if (x !== undefined) {
-  console.log(x[2] + ' is ' + x[4]);
+  console.log(x[2] + ' is ' + x[3]);
 }
