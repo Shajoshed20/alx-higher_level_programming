@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// Script that prints My number: <first argument converted in integer>
+// Script that prints the addition of 2 integers
 
 function add (a, b) {
   return (a + b);
