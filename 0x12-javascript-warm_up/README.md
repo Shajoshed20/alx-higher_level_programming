@@ -74,7 +74,13 @@ For the moment, and for learning all basic concepts of this language, we will do
     - You can use only one console.log
     - You must use a loop (while, for, etc.)
 
-* Task 7 - 
+* Task 7 - Write a script that prints x times “C is fun”
+    - Where x is the first argument of the script
+    - If the first argument can’t be converted to an integer, print “Missing number of occurrences”
+    - You must use console.log(...) to print all output
+    - You are not allowed to use var
+    - You can use only two console.log
+    - You must use a loop (while, for, etc.)
 
 * Task 8 - 
 
