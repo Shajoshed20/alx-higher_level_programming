@@ -115,8 +115,15 @@ For the moment, and for learning all basic concepts of this language, we will do
 * Task 12 - Update this script to replace the value 12 with 89:
     - You are not allowed to use var
 
-* Task 13 - 
+* Task 13 - Write a function that returns the addition of 2 integers.
+    - The function must be visible from outside
+    - The name of the function must be add
+    - You are not allowed to use var
+
 * Task 14 - 
+
 * Task 15 - 
+
 * Task 16 - 
+
 * Task 17 - 
