@@ -82,11 +82,20 @@ For the moment, and for learning all basic concepts of this language, we will do
     - You can use only two console.log
     - You must use a loop (while, for, etc.)
 
-* Task 8 - 
+* Task 8 - Write a script that prints a square
+    - The first argument is the size of the square
+    - If the first argument can’t be converted to an integer, print “Missing size”
+    - You must use the character X to print the square
+    - You must use console.log(...) to print all output
+    - You are not allowed to use var
+    - You must use a loop (while, for, etc.)
 
-* Task 0 - 
-* Task 0 - 
-* Task 0 - 
+* Task 9 - 
+
+* Task 10 - 
+
+* Task 11 - 
+
 * Task 0 - 
 * Task 0 - 
 * Task 0 - 
