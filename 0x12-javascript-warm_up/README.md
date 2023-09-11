@@ -54,7 +54,9 @@ For the moment, and for learning all basic concepts of this language, we will do
     - You are not allowed to use var
     - You are not allowed to use length
 
-* Task 0 - 
+* Task 4 - Write a script that prints two arguments passed to it, in the following format: “ is ”
+    - You must use console.log(...) to print all output
+    - You are not allowed to use var
 
 * Task 0 - 
 
