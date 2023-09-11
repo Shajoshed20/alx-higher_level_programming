@@ -58,11 +58,18 @@ For the moment, and for learning all basic concepts of this language, we will do
     - You must use console.log(...) to print all output
     - You are not allowed to use var
 
-* Task 0 - 
+* Task 5 - Write a script that prints My number: <first argument converted in integer> if the first argument can be converted to an integer:
+    - If the argument can’t be converted to an integer, print “Not a number”
+    - You must use console.log(...) to print all output
+    - You are not allowed to use var
+    - You are not allowed to use try/catch
 
-* Task 0 - 
-* Task 0 - 
-* Task 0 - 
+* Task 6 - 
+
+* Task 7 - 
+
+* Task 8 - 
+
 * Task 0 - 
 * Task 0 - 
 * Task 0 - 
