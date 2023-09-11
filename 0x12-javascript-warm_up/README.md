@@ -105,9 +105,15 @@ For the moment, and for learning all basic concepts of this language, we will do
     - You must use console.log(...) to print all output
     - You are not allowed to use var
 
-* Task 11 - 
+* Task 11 - Write a script that searches the second biggest integer in the list of arguments.
+    - You can assume all arguments can be converted to integer
+    - If no argument passed, print 0
+    - If the number of arguments is 1, print 0
+    - You must use console.log(...) to print all output
+    - You are not allowed to use var
 
 * Task 12 - 
+
 * Task 13 - 
 * Task 14 - 
 * Task 15 - 
