@@ -12,7 +12,7 @@ module.exports = class Square extends fSquare {
       for (let i = 0; i < this.height; i++) {
         let col = '';
         for (let j = 0; j < this.width; j++) {
-          col += 'C';
+          col += c;
         }
         console.log(col);
       }
