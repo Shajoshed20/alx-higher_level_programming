@@ -20,8 +20,10 @@ module.exports = class Rectangle {
   }
 
   rotate () {
+    let swap = 0;
+    swap = this.width;
     this.width = this.height;
-    this.height = this.width;
+    this.height = swap;
   }
 
   double () {
