@@ -47,12 +47,18 @@
     - Create an instance method called rotate() that exchanges the width and the height of the rectangle
     - Create an instance method called double() that multiples the width and the height of the rectangle by 2
 
+* Task 5 - Write a class Square that defines a square and inherits from Rectangle of 4-rectangle.js:
+    - You must use the class notation for defining your class and extends
+    - The constructor must take 1 argument: size
+    - The constructor of Rectangle must be called (by using super())
+
+* Task 4 - 
+
 * Task 5 - 
 
-* Task 0 - 
-* Task 0 - 
-* Task 0 - 
-* Task 0 - 
+* Task 6 - 
+
+* Task 7 - 
 * Task 0 - 
 * Task 0 - 
 * Task 0 - 
