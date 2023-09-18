@@ -30,7 +30,13 @@ The biggest difference is: no more SQL queries! Indeed, the purpose of an ORM is
     - Results must be displayed as they are in the example below
     - Your code should not be executed when imported
 
-* Task 0 - 
+* Task 1 - Write a script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa:
+    - Your script should take 3 arguments: mysql username, mysql password and database name (no argument validation needed)
+    - You must use the module MySQLdb (import MySQLdb)
+    - Your script should connect to a MySQL server running on localhost at port 3306
+    - Results must be sorted in ascending order by states.id
+    - Results must be displayed as they are in the example below
+    - Your code should not be executed when imported
 
 * Task 0 - 
 
