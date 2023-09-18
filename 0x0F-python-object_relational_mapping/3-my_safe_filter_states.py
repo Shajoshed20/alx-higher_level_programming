@@ -23,7 +23,7 @@ if __name__ == '__main__':
 
     con_cursor.execute(
         "SELECT * FROM states WHERE name LIKE BINARY \
-                %(name)s ORDER BY states.id ASC", {'name:', states_table})
+                %(name)s ORDER BY states.id ASC", {'name': states_table})
     rows = con_cursor.fetchall()
 
     # Print the results
