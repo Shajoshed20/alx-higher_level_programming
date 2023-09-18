@@ -20,7 +20,7 @@ if __name__ == '__main__':
     con_cursor = connects.cursor()
 
     con_cursor.execute(
-        "SELECT * FROM states WHERE name LIKE 'N%' ORDER BY id ASC")
+        "SELECT * FROM states WHERE name LIKE 'N%' ORDER BY states.id ASC")
     rows = con_cursor.fetchall()
 
     # Print the results
