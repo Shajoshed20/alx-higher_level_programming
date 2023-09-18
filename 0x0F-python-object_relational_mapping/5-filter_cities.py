@@ -20,7 +20,7 @@ if __name__ == '__main__':
     con_cursor.execute("SELECT cities.id, cities.name \
                                 FROM cities JOIN states ON cities.state_id \
                                 = states.id WHERE state.name = %s ORDER BY \
-                                cities.id ASC", {'state_name': sys.argv})
+                                cities.id ASC", {'state_name': states_table})
     rows = con_cursor.fetchall()
 
     # Print the results
