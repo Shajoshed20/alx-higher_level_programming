@@ -25,5 +25,4 @@ if __name__ == '__main__':
 
     # Print the results
     if rows is not None:
-        for row in rows:
-            print(row)
+        print(", ".join([row[1] for row in rows]))
