@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-A Script that list all State objects and corresponding 
+A Script that list all State objects and corresponding
 City objects contained in the DB
 """
 import sys
