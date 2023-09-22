@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-""" A script that lists all State objects from the database `hbtn_0e_6_usa`"""
+"""
+A script that deletes all State objects with a name
+containing the letter `a` from the database `hbtn_0e_6_usa`
+"""
 
 import sys
 from sqlalchemy import create_engine
@@ -13,5 +16,7 @@ if __name__ == "__main__":
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    for instance in session.query(State).order_by(State.id):
-        print("{}: {}".format(instance.id, instance.name))
+    for state in session.query(State):
+        if "a" in state.name:
+            session.delete(state)
+    session.commit()
